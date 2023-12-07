@@ -1,68 +1,49 @@
-# RestaurantTech Insights: From Database Design to Visual Analytics
+# Meta Database Engineer Capstone Project
 
-## Hyperspace
+## Overview
 
-In this post, I present the culmination of my efforts during the Meta Certificate program, providing an overview of my capstone project.
+Welcome to my Meta Database Engineer Capstone Project! This project showcases my culmination of skills and knowledge gained throughout the Meta Database Engineer program. It involves a comprehensive exploration and implementation of database-related tasks, from design to visualization.
 
-### Roadmap
+## Project Focus
 
-Here is the roadmap followed in this project:
+The primary focus of this capstone project revolves around:
 
-1. **Version Control**
-    - Establishment of a repository/local directory for code storage.
-    - Thorough documentation and tracking of system modifications.
-    - Collaborative access to enhance the codebase.
+- **Database Design and Implementation:** Utilizing various tools and methodologies to design and implement robust databases.
+- **Data Manipulation and Querying:** Performing data operations, writing complex queries, and creating stored procedures.
+- **Data Visualization and Analytics:** Utilizing visualization tools like Tableau to derive insights from the stored data.
 
-2. **Database Setup in MySQL Workbench**
-    - Setting up the MySQL instance server.
-    - Creating an Entity Relationship Model.
-    - Implementation of the ER diagram data model in MySQL.
+## Objectives
 
-3. **Database API Development**
-    - Creating virtual tables, stored procedures, and prepared statements for Little Lemon restaurant.
-    - Adding query functions.
+1. **Version Control and Project Management:**
+   - Establishing a version control system for managing project modifications.
+   - Documenting and tracking all database-related changes.
+   - Collaborative access for project enhancement and review.
 
-4. **Utilizing Tableau for Data Analysis**
-    - Assisting Little Lemon in generating insights using data analysis features.
+2. **Database Setup and Design:**
+   - Employing MySQL Workbench for creating an efficient database structure.
+   - Implementing various data models and evaluating their applicability.
+   - Developing Entity Relationship (ER) diagrams for visualization and planning.
 
-### Version Control
+3. **Database Operations:**
+   - Creating virtual tables, stored procedures, and prepared statements.
+   - Executing complex queries and operations to extract meaningful insights.
 
-Version control is fundamental for managing modifications in software development and collaborative projects. In this project, tasks included:
+4. **Data Visualization and Analytics:**
+   - Using Tableau for visual representation and analysis of stored data.
+   - Presenting insights and trends derived from the database through visualizations.
 
-- Creating a centralized location for code storage.
-- Documenting and tracking all system modifications.
-- Providing collaborative access for codebase enhancement.
+## Roadmap
 
-### Database Design and Implementation
+This project follows a structured roadmap:
 
-Little Lemon required a reliable relational database system to manage data efficiently. The project encompassed:
+1. **Version Control and Setup:** Establishing version control and initial database setup.
+2. **Database Design and Implementation:** Designing the database structure and implementing it in MySQL.
+3. **Database Operations:** Executing various operations, creating procedures, and optimizing queries.
+4. **Data Visualization:** Utilizing Tableau for visual data representation and analysis.
+5. **Conclusion:** Summarizing insights gained and lessons learned throughout the project.
 
-- Utilizing MySQL Workbench for a robust database system.
-- Creating an Entity Relationship (ER) diagram to represent database structure and relationships.
-- Exploring various data models for specific objectives.
+## Conclusion
 
-### Database Operations
+This capstone project is a comprehensive showcase of my database engineering skills, covering various aspects from design to visualization. The structured approach followed throughout the project aimed to achieve a robust and insightful database system, offering valuable insights for decision-making.
 
-Several database operations were conducted, including:
-
-- Creation of a virtual table named OrdersView focusing on specific criteria.
-- Development of procedures like GetMaxQuantity(), MakeBooking(), CheckBooking(), CancelBooking(), and UpdateBooking().
-
-### Data Visualization with Tableau
-
-The next step involved visualizing restaurant sales data and implementing a Python database client. Objectives included:
-
-- Data visualization using appropriate tools and techniques.
-- Development of a Python database client for data retrieval, manipulation, and analysis.
-
-### Data Analytics with Tableau
-
-Diving into data analytics using Tableau, insights were presented using worksheets and interactive dashboards:
-
-[Images of Tableau Visualizations]
-
-### Conclusion
-
-The use of Tableau's powerful tools allowed for uncovering meaningful patterns and trends in the restaurant's data. This project has been a journey of discovery and understanding, offering valuable insights through visual representations. Thank you for engaging with this exploration. Feel free to share any further questions or thoughts.
-
-With enhanced visual insights, this project concludes. Thank you once again for your participation.
+Thank you for exploring this p
