@@ -1,8 +1,5 @@
 # RestaurantTech Insights: From Database Design to Visual Analytics
 
-**Date**: Wed May 1, 2023  
-**Duration**: 30 min read  
-
 ## Hyperspace
 
 In this post, I present the culmination of my efforts during the Meta Certificate program, providing an overview of my capstone project.
