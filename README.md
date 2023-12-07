@@ -46,4 +46,3 @@ This project follows a structured roadmap:
 
 This capstone project is a comprehensive showcase of my database engineering skills, covering various aspects from design to visualization. The structured approach followed throughout the project aimed to achieve a robust and insightful database system, offering valuable insights for decision-making.
 
-Thank you for exploring this p
