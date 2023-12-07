@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my Meta Database Engineer Capstone Project! This project showcases my culmination of skills and knowledge gained throughout the Meta Database Engineer program. It involves a comprehensive exploration and implementation of database-related tasks, from design to visualization.
+Welcome to my Meta Database Engineer Capstone Project! This project showcases my culmination of skills and knowledge gained throughout the Meta Database Engineer professional certificate. It involves a comprehensive exploration and implementation of database-related tasks, from design to visualization.
 
 ## Project Focus
 
